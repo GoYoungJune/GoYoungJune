@@ -1,38 +1,65 @@
-# 고영준 (Go YoungJune)
+# Hi, I'm GoYoungJune (고영준) 👋
 
-> AI 개발자를 목표로 달리는 대학교 3학년
+> University junior building toward a career as an AI engineer in Seoul.
 
-## About
+I focus on **RAG pipelines, multi-agent systems, and ML pipelines**.  
+Currently exploring abstract reasoning with Transformers and Test-Time Training on **ARC-AGI-2**.
 
-RAG 파이프라인, 멀티에이전트 시스템, ML 파이프라인을 주로 다룹니다.  
-서울 AI 기업 취업을 목표로 꾸준히 쌓아가는 중입니다.
+---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **AI / ML**  
-`LangChain` `LangGraph` `PyTorch` `RAG` `Multi-Agent Systems`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 
-**Languages & Frameworks**  
-`Python` `JavaScript` `Node.js`
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-**Tools**  
-`Claude API` `Kaggle` `Git`
+---
 
-## Projects
+## 📌 Featured Projects
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| [shopping-list-app](https://github.com/GoYoungJune/shopping-list-app) | 쇼핑 리스트 웹앱 · [Live Demo](https://shopping-list-app-chi-ten.vercel.app) | JavaScript, Vercel |
-| [VibeCoding](https://github.com/GoYoungJune/VibeCoding) | 바이브코딩 실험 프로젝트 | — |
-| [p5js](https://github.com/GoYoungJune/p5js) | p5.js 크리에이티브 코딩 | HTML/JS |
+|---|---|---|
+| [arc-agi-solver](https://github.com/GoYoungJune/arc-agi-solver) | Decoder-only Transformer + Test-Time Training for ARC-AGI-2 abstract reasoning | PyTorch, RoPE, TTT |
+| [titanic-ml-pipeline](https://github.com/GoYoungJune/titanic-ml-pipeline) | End-to-end Kaggle pipeline: schema validation → feature engineering → XGBoost ensemble → drift detection | scikit-learn, XGBoost, LightGBM |
+| [claude-code-skills](https://github.com/GoYoungJune/claude-code-skills) | Custom Claude Code skills — CSV→Excel, document→Markdown, Google Workspace CLI | Python, Claude Code |
+| [shopping-list-app](https://github.com/GoYoungJune/shopping-list-app) | Shopping list web app · [Live Demo](https://shopping-list-app-chi-ten.vercel.app) | JavaScript, Vercel |
+| [VibeCoding](https://github.com/GoYoungJune/VibeCoding) | Vibe coding experiments | — |
+| [p5js](https://github.com/GoYoungJune/p5js) | Creative coding with p5.js | HTML/JS |
 
-## Currently
+---
 
-- AI 개발자 취업 준비 중
-- RAG + 멀티에이전트 프로젝트 빌드 중
-- Kaggle 컴피티션 참여 중
+## 📊 GitHub Stats
 
-## Contact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GoYoungJune&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoYoungJune&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-kyj201802%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:kyj201802@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-GoYoungJune-black?style=flat-square&logo=github)](https://github.com/GoYoungJune)
+---
+
+## 🚀 Currently
+
+- Preparing for AI engineering roles in Seoul
+- Building RAG + multi-agent projects
+- Competing on Kaggle
+
+---
+
+## 📬 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-kyj201802%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyj201802@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-xxolder%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:xxolder@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GoYoungJune-181717?style=flat-square&logo=github)](https://github.com/GoYoungJune)

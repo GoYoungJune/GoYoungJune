@@ -63,3 +63,63 @@ Currently exploring abstract reasoning with Transformers and Test-Time Training 
 [![Gmail](https://img.shields.io/badge/Gmail-kyj201802%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyj201802@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-xxolder%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:xxolder@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-GoYoungJune-181717?style=flat-square&logo=github)](https://github.com/GoYoungJune)
+
+---
+---
+
+# 안녕하세요, 고영준입니다 👋
+
+> 서울 AI 기업 취업을 목표로 달리는 대학교 3학년입니다.
+
+**RAG 파이프라인, 멀티에이전트 시스템, ML 파이프라인**을 주로 다룹니다.  
+현재 Transformer와 Test-Time Training으로 **ARC-AGI-2** 추상 추론 문제를 탐구하고 있습니다.
+
+---
+
+## 🛠 기술 스택
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+
+**언어 & 도구**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
+---
+
+## 📌 주요 프로젝트
+
+| 프로젝트 | 설명 | 스택 |
+|---|---|---|
+| [arc-agi-solver](https://github.com/GoYoungJune/arc-agi-solver) | ARC-AGI-2 추상 추론을 위한 Decoder-only Transformer + Test-Time Training | PyTorch, RoPE, TTT |
+| [titanic-ml-pipeline](https://github.com/GoYoungJune/titanic-ml-pipeline) | Kaggle 엔드투엔드 파이프라인: 데이터 검증 → 피처 엔지니어링 → XGBoost 앙상블 → 드리프트 감지 | scikit-learn, XGBoost, LightGBM |
+| [claude-code-skills](https://github.com/GoYoungJune/claude-code-skills) | Claude Code 커스텀 스킬 — CSV→Excel, 문서→Markdown, Google Workspace CLI | Python, Claude Code |
+| [shopping-list-app](https://github.com/GoYoungJune/shopping-list-app) | 쇼핑 리스트 웹앱 · [Live Demo](https://shopping-list-app-chi-ten.vercel.app) | JavaScript, Vercel |
+| [VibeCoding](https://github.com/GoYoungJune/VibeCoding) | 바이브코딩 실험 프로젝트 | — |
+| [p5js](https://github.com/GoYoungJune/p5js) | p5.js 크리에이티브 코딩 | HTML/JS |
+
+---
+
+## 🚀 현재 진행 중
+
+- 서울 AI 기업 취업 준비
+- RAG + 멀티에이전트 프로젝트 빌드
+- Kaggle 컴피티션 참여
+
+---
+
+## 📬 연락처
+
+[![Gmail](https://img.shields.io/badge/Gmail-kyj201802%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyj201802@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-xxolder%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:xxolder@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GoYoungJune-181717?style=flat-square&logo=github)](https://github.com/GoYoungJune)
